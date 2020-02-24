@@ -1,0 +1,17 @@
+C:\Users\paul\Desktop\Thesis2019\Program\PROGRAM\DCCLRTMMS\bin\Debug\DCCLRTMMS.exe.config
+C:\Users\paul\Desktop\Thesis2019\Program\PROGRAM\DCCLRTMMS\bin\Debug\DCCLRTMMS.exe
+C:\Users\paul\Desktop\Thesis2019\Program\PROGRAM\DCCLRTMMS\bin\Debug\DCCLRTMMS.pdb
+C:\Users\paul\Desktop\Thesis2019\Program\PROGRAM\DCCLRTMMS\bin\Debug\DCCLRTMMS.xml
+C:\Users\paul\Desktop\Thesis2019\Program\PROGRAM\DCCLRTMMS\obj\Debug\DCCLRTMMS.vbprojAssemblyReference.cache
+C:\Users\paul\Desktop\Thesis2019\Program\PROGRAM\DCCLRTMMS\obj\Debug\DCCLRTMMS.Resources.resources
+C:\Users\paul\Desktop\Thesis2019\Program\PROGRAM\DCCLRTMMS\obj\Debug\DCCLRTMMS.vbproj.GenerateResource.cache
+C:\Users\paul\Desktop\Thesis2019\Program\PROGRAM\DCCLRTMMS\obj\Debug\DCCLRTMMS.vbproj.CoreCompileInputs.cache
+C:\Users\paul\Desktop\Thesis2019\Program\PROGRAM\DCCLRTMMS\obj\Debug\DCCLRTMMS.exe
+C:\Users\paul\Desktop\Thesis2019\Program\PROGRAM\DCCLRTMMS\obj\Debug\DCCLRTMMS.xml
+C:\Users\paul\Desktop\Thesis2019\Program\PROGRAM\DCCLRTMMS\obj\Debug\DCCLRTMMS.pdb
+C:\Users\paul\Desktop\Thesis2019\Program\PROGRAM\DCCLRTMMS\obj\Debug\DCCLRTMMS.Form2.resources
+C:\Users\paul\Desktop\Thesis2019\Program\PROGRAM\DCCLRTMMS\obj\Debug\DCCLRTMMS.Form3.resources
+C:\Users\paul\Desktop\Thesis2019\Program\PROGRAM\DCCLRTMMS\obj\Debug\DCCLRTMMS.Form4.resources
+C:\Users\paul\Desktop\Thesis2019\Program\PROGRAM\DCCLRTMMS\obj\Debug\DCCLRTMMS.Form5.resources
+C:\Users\paul\Desktop\Thesis2019\Program\PROGRAM\DCCLRTMMS\obj\Debug\DCCLRTMMS.Form6.resources
+C:\Users\paul\Desktop\Thesis2019\Program\PROGRAM\DCCLRTMMS\obj\Debug\DCCLRTMMS.LoginForm1.resources
